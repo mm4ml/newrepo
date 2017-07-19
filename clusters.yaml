@@ -1,0 +1,5 @@
+- Account: expanded-idiom-174202
+  AutoDeploy: false
+  Name: cluster1
+  Provider: google
+  Src: cluster1.yaml
